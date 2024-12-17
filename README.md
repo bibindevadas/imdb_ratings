@@ -18,7 +18,7 @@ The data is saved in an **Excel file** (`IMDB Movie Ratings.xlsx`) using the Ope
 4. [Code Walkthrough](#code-walkthrough)
 5. [How to Run](#how-to-run)
 6. [Output Example](#output-example)
-7. [License](#license)
+
 
 ---
 
